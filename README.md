@@ -1,6 +1,11 @@
 #基于cnn和svm的地貌分类器
 ![](https://github.com/wukaiqi/image/blob/master/cnn_svm1.png?raw=true)
 ##数据集
+数据连接：
+链接：https://pan.baidu.com/s/1tWI2aXR8F728SjqumStTrg 
+提取码：081g 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+>
 百度图片爬虫获得六类地形，手工筛选，再使用数据增强扩充数据集
 
 Keras框架下的数据增强工具ImageDataGenerator
